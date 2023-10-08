@@ -1,14 +1,9 @@
-			Trainee ID No	   : 1271556
-			Name		   : Mohammed Yousof
-			Batch Id	   : CS/NVIT-M/53/01
-	===================================================================
+Project Name		:   Saving Account Management System.(SAMS).
+Project Type		:   Microsoft SQL Server.
+=====================================================================
 
-Projecet Name		:   Saving Account Management System.(SAMS)
-
-Projecet Description 	:  In a typical Bank, A Clien can open account, deposit money and withdraw the same from his/her unique account.
+Project Description 	:  In a typical Bank, A Clien can open account, deposit money and withdraw the same from 			   his/her unique account.
 			   A Clien can’t withdraw money in excess of his/her deposited money.
 			   A bank can have more branches located throughout the country. Usually, 
 			   the Clien information is kept in various location in the database.
-			   In this case study, various operations related to the deposited amount of a Clien are depicted with 
-			   the help of SQL Server dividing into two broad category such as: Data Definition Language (DDL) 
-			   and Data Manipulation Language (DML).
+			   In this case study, various operations related to the deposited amount of a Clien are 			   depicted with the help of SQL Server dividing into two broad category such as: Data 				   Definition Language(DDL) and Data Manipulation Language (DML).
